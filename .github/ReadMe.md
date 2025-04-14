@@ -11,7 +11,7 @@ https://github.com/onedevapp/PredefinedPresetLibrary.git
 
 ## ScreenShot
 
-![PredefinedPresetLibrary](.github/predefined_preset_library.png)
+![PredefinedPresetLibrary](https://github.com/onedevapp/PredefinedPresetLibrary/blob/main/.github/predefined_preset_library.png)
 
 
 ## Note:
