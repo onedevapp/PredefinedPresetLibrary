@@ -1,0 +1,14 @@
+{
+  "name": "com.onedevapp.predefinedpresetlibrary",
+  "displayName": "Predefined Preset Library",
+  "version": "1.0.0",
+  "documentationUrl": "https://github.com/onedevapp/PredefinedPresetLibrary/blob/main/.github/README.md",
+  "changelogUrl": "",
+  "licensesUrl": "https://github.com/onedevapp/PredefinedPresetLibrary/blob/main/LICENSE",
+  "author": {
+    "name": "OneDevApp",
+    "email": "onedevapp@gmail.com",
+    "url": "https://github.com/onedevapp/PredefinedPresetLibrary"
+  },
+  "description": "This system provides a flexible, extensible framework for creating and managing Unity presets with PresetManager.\n\n"
+}
